@@ -21,7 +21,7 @@
 - 将上述组件组织在一个project内
 ## 使用
   1. fork 本 repo.
-  2. 使用应聘名称作为branch
+  2. 使用应聘名称作为branch eg . feature/xxxxxx
   3. 完成上述要求，并提交。
   4. 创建PR到本repo的develop分支，
   5. 如有任何问题欢迎Issue 提问
